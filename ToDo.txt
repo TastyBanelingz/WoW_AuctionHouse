@@ -1,0 +1,15 @@
+#ToDo
+
+1. Biggest Winners and Loser over date range
+    uses my Delta % functions already built
+    return top 5 of each
+    similar to the Weekly Winners and Losers from MTGSTOCKS
+
+2. Profitability Calculator for Professions
+    Start with Alchemy cause its easy
+    include bank 5% Cut 
+
+3. Retrieve Vendor price DB and apply to scripts
+    this is related to deposit, but meh
+
+4. 
